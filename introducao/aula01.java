@@ -1,4 +1,4 @@
-package devDojo;
+package devDojo.introducao;
 
 public class aula01 {
     public static void main(String[] args) {

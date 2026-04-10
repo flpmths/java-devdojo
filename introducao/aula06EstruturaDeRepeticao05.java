@@ -1,4 +1,4 @@
-package devDojo;
+package devDojo.introducao;
 
 public class aula06EstruturaDeRepeticao05 {
     //Dado o valor de um carro, descubra em quantas vezes ele pode ser parcelado

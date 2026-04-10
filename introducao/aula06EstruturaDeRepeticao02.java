@@ -1,4 +1,4 @@
-package devDojo;
+package devDojo.introducao;
 
 public class aula06EstruturaDeRepeticao02 {
     static void main(String[] args) {

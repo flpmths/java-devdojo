@@ -1,4 +1,4 @@
-package devDojo;
+package devDojo.introducao;
 
 public class aula04Operadores {
     static void main(String[] args) {

@@ -1,4 +1,4 @@
-package devDojo;
+package devDojo.introducao;
 
 public class aula05EstruturasCondicionais04 {
     // exercicio

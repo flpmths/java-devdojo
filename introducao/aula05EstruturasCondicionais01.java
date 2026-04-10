@@ -1,4 +1,4 @@
-package devDojo;
+package devDojo.introducao;
 //Estruturas Condicionais
 public class aula05EstruturasCondicionais01 {
     static void main(String[] args) {

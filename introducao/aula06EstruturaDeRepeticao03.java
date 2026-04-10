@@ -1,6 +1,4 @@
-package devDojo;
-
-import java.sql.SQLOutput;
+package devDojo.introducao;
 
 public class aula06EstruturaDeRepeticao03 {
     //imprima os primeiros 25 numeros de um dado valor. Por exemplo, 50

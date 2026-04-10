@@ -1,4 +1,4 @@
-package devDojo;
+package devDojo.introducao;
 //Operador ternario
 public class aula05EstruturasCondicionais03 {
     static void main(String[] args) {
