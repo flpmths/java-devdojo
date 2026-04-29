@@ -45,4 +45,21 @@ public class Calculadora {
         System.out.println("Num1 "+ num1);
         System.out.println("Num2 "+ num2);
     }
+
+    public void somaArray(int[] numeros){
+        int soma = 0;
+        for (int num : numeros) {
+            soma += num;
+        }
+        System.out.println(soma);
+    }
+
+    public void somaVarArgs(int... numeros){ //mudando para array - diferença na chamada >>>> | Em caso de mais atributos o VarArgs devera ser o ultimo declarado
+        int soma = 0;
+        for (int num : numeros) {
+            soma += num;
+        }
+        System.out.println(soma);
+    }
 }
+
